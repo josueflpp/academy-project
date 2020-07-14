@@ -1,0 +1,55 @@
+{
+  "members": [
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "JOSUE FILIPE SA DIAS",
+      "email": "josuefilipe2603@hotmail.com",
+      "birth": 1567641600000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "75",
+      "height": "185"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1553531889-65d9c41c2609?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Teste Membro",
+      "email": "felipe.unwanted@hotmail.com",
+      "birth": 1527465600000,
+      "gender": "F",
+      "blood": "AB+",
+      "weight": "105",
+      "height": "177"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Josué Dias",
+      "birth": 922406400000,
+      "gender": "M",
+      "services": "Natação",
+      "created_at": 1594061176256
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1580261450046-d0a30080dc9b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=353&q=80",
+      "name": "Bruna",
+      "birth": 470707200000,
+      "gender": "M",
+      "services": "Crossfit",
+      "created_at": 1594065205385
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://images.unsplash.com/photo-1553531889-65d9c41c2609?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Xiru",
+      "birth": 922406400000,
+      "gender": "F",
+      "services": "Natação, Crossfit",
+      "created_at": 1594497191677
+    }
+  ]
+}
